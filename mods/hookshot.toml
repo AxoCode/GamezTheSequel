@@ -1,0 +1,13 @@
+name = "Hookshot"
+filename = "hookshot-r23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/381/hookshot-r23.jar"
+hash-format = "murmur2"
+hash = "31554454"
+
+[update]
+[update.curseforge]
+file-id = 3541381
+project-id = 396512

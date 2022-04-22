@@ -1,0 +1,13 @@
+name = "Void Totem (Fabric)"
+filename = "voidtotem-fabric-1.18.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3556/602/voidtotem-fabric-1.18.1-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3048649785"
+
+[update]
+[update.curseforge]
+file-id = 3556602
+project-id = 456137

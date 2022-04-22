@@ -1,0 +1,13 @@
+name = "The Wild Mod"
+filename = "TWM 1.18.x - Beta 0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3609/905/TWM%5B1.18.x%5D %5BBeta 0.5%5D.jar"
+hash-format = "murmur2"
+hash = "3119415069"
+
+[update]
+[update.curseforge]
+file-id = 3609905
+project-id = 537626
