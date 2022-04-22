@@ -1,13 +1,13 @@
 name = "MaxVar reap "
-filename = "mcf-reap-1.7.0-1.18.1.jar"
+filename = "mcf-reap-1.7.1-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3586/960/mcf-reap-1.7.0-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3623/392/mcf-reap-1.7.1-1.18.1.jar"
 hash-format = "murmur2"
-hash = "859729614"
+hash = "196808178"
 
 [update]
 [update.curseforge]
-file-id = 3586960
+file-id = 3623392
 project-id = 368705

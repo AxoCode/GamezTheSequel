@@ -1,13 +1,13 @@
 name = "Villager Names (Fabric)"
-filename = "villagernames-1.18-2.0.2.jar"
+filename = "villagernames-1.18.1-3.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3550/878/villagernames-1.18-2.0.2.jar"
+url = "https://edge.forgecdn.net/files/3659/772/villagernames-1.18.1-3.0.3.jar"
 hash-format = "murmur2"
-hash = "3858960898"
+hash = "512216444"
 
 [update]
 [update.curseforge]
-file-id = 3550878
+file-id = 3659772
 project-id = 416379

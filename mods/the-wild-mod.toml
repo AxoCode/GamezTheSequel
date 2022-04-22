@@ -1,13 +1,13 @@
-name = "The Wild Mod"
-filename = "TWM 1.18.x - Beta 0.5.jar"
+name = "The Wild Mod [Fabric]"
+filename = "TWM 1.18.x - Beta 0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3609/905/TWM%5B1.18.x%5D %5BBeta 0.5%5D.jar"
+url = "https://edge.forgecdn.net/files/3659/234/TWM%5B1.18.x%5D %5BBeta 0.6%5D.jar"
 hash-format = "murmur2"
-hash = "3119415069"
+hash = "2421649932"
 
 [update]
 [update.curseforge]
-file-id = 3609905
+file-id = 3659234
 project-id = 537626
