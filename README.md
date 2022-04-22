@@ -2,16 +2,16 @@
 Private use modpack
 
 ## Credit
-Inspired by [Better Minecraft [FABRIC]](https://curseforge.com/minecraft/modpacks/better-minecraft-fabric)  
-Made by [dadmanal](https://github.com/dadmanal)  
-Modpack Made by [AxoCode](https://github.com/AxoCode)  
+Inspired by [Better Minecraft [FABRIC]](https://curseforge.com/minecraft/modpacks/better-minecraft-fabric)
+Made by [dadmanal](https://github.com/dadmanal)
+Modpack Made by [AxoCode](https://github.com/AxoCode)
 
 ## How To Download
 1. Install [Java 17.0.1](https://oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 2. Install [MultiMC](https://multimc.org)
 3. Right Click > Create Instance
 4. Choose `Import from zip`
-5. Put `https://github.com/AxoCode/GamezTheSequel/releases/download/1.0.0/GamezTheSequel-v1.0.0.zip` to the URL
+5. Put `https://github.com/AxoCode/GamezTheSequel/releases/download/release/GamezTheSequel.zip` to the URL
 6. Press OK
 7. Right Click > Rename > `Gamez The Sequel v1.0.0`
 8. Double Click The Instance / Click Launch
